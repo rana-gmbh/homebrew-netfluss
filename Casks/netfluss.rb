@@ -1,6 +1,6 @@
 cask "netfluss" do
-  version "1.7"
-  sha256 "3a385ee355e13c6c35dea760333f821dc1f83c57bec3daf5c91a809999663520"
+  version "1.7.1"
+  sha256 "dd1af04d52d07781aecd52107f3d4742364b6285e235ec59a74597460fbfe075"
 
   url "https://github.com/rana-gmbh/netfluss/releases/download/v#{version}/Netfluss-#{version}.zip"
   name "Netfluss"
