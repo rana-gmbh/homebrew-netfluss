@@ -1,11 +1,11 @@
 cask "netfluss" do
-  version "1.11"
-  sha256 "dafb620a3bb464c47544969a9a1a57d1369fb6b38a2e9ea460e49b7e9c77f96f"
+  version "1.12"
+  sha256 "9492ecd53d60a1fc568a4b89023ad4de7490d046df2bcc5c85e32a0aeca85583"
 
-  url "https://github.com/rana-gmbh/netfluss/releases/download/v#{version}/Netfluss-#{version}.zip"
-  name "Netfluss"
+  url "https://github.com/rana-gmbh/NetFluss/releases/download/v#{version}/NetFluss-#{version}.zip"
+  name "NetFluss"
   desc "Minimal macOS menubar app showing real-time network upload and download rates"
-  homepage "https://github.com/rana-gmbh/netfluss"
+  homepage "https://github.com/rana-gmbh/NetFluss"
 
-  app "Netfluss.app"
+  app "NetFluss.app"
 end
