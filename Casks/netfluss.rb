@@ -7,7 +7,7 @@ cask "netfluss" do
   desc "Minimal macOS menubar app showing real-time network upload and download rates"
   homepage "https://github.com/rana-gmbh/NetFluss"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "NetFluss.app"
 end
