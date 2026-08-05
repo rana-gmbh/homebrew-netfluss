@@ -4,7 +4,7 @@ cask "netfluss" do
 
   url "https://github.com/rana-gmbh/NetFluss/releases/download/v#{version}/NetFluss-#{version}.zip"
   name "NetFluss"
-  desc "Minimal macOS menubar app showing real-time network upload and download rates"
+  desc "Minimal menubar app showing real-time network upload and download rates"
   homepage "https://github.com/rana-gmbh/NetFluss"
 
   depends_on macos: :ventura
