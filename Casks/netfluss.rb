@@ -1,6 +1,6 @@
 cask "netfluss" do
-  version "2.7"
-  sha256 "241ef230ae4b0320ae8105dc6fb4d9d5cd3e2d44632b437488858e7efdf9c6a0"
+  version "2.7.1"
+  sha256 "7b2d21a5e7fcf5b69f05578c82de3ed5d152ea2c6aa75fe0f3dd271d227df6c4"
 
   url "https://github.com/rana-gmbh/NetFluss/releases/download/v#{version}/NetFluss-#{version}.zip"
   name "NetFluss"
